@@ -1,5 +1,7 @@
 # DevMeetup-vue: a meetup app built with Vue + Vuetify + Firebase
 
+Users can create, login, and logout of their account along with creating, editing, viewing and registering for meetups.  
+
 ## Build Setup
 
 ``` bash
